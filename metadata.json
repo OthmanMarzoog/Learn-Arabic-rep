@@ -1,0 +1,5 @@
+{
+  "name": "Learn Arabic",
+  "description": "A comprehensive Arabic learning platform featuring interactive quests and lessons.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
